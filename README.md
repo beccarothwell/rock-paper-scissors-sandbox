@@ -12,3 +12,9 @@
 
 - Implement the `updateDOM` function within the index.js
 
+## Sample solution
+
+🙈 Don't cheat but you can see a sample solution on the **solution** branch
+
+We highly recommend you taking an attempt at the exercise before viewing the solution though 🙌
+
